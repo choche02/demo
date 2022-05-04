@@ -1,0 +1,10 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 20BB-86B5
+
+ Directory of C:\Users\Alvarez\OneDrive\Desktop\MyProject
+
+05/03/2022  09:47 PM    <DIR>          .
+05/03/2022  09:47 PM    <DIR>          ..
+05/03/2022  09:47 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  353,639,374,848 bytes free
